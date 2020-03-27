@@ -1,0 +1,16 @@
+name: ChatFilter
+author: Baitshop
+description: Control your chat
+main: me.inamine.ChatFilter.Main
+version: 1.0
+prefix: Chat Filter
+commands:
+    filter:
+        description: Base Administrative Command
+        usage: /filter [reload]
+        permission: filter.relaod
+permissions:
+    filter.reload:
+        default: op
+    filter.bypass:
+        default: op

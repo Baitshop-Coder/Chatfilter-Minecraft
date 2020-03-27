@@ -1,0 +1,5 @@
+output:
+  command:
+    reload: "&aReloaded chat filter!"
+  no-permission: "&cNo Permission"
+  bad-word: "&cYou can't use that language on this server!"
